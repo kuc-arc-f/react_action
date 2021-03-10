@@ -27,5 +27,9 @@ yarn build
 ***
 ### Blog :
 
+Github Actionで、React SPAサイトのコンパイルと。Github pagesデプロイ
+
+https://note.com/knaka0209/n/n9dd4435564c1
+
 ***
 
